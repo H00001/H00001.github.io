@@ -1,10 +1,10 @@
 
-# 你好 👋 我是 [你的姓名]
+# Hello👋 I am Renda Han
 
-[![个人状态](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)](https://github.com/你的GitHub用户名)
+[![个人状态](https://github-readme-stats.vercel.app/api?username=H00001&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)](https://github.com/H00001)
 
-## 🎓 关于我
-我是[你的单位]的[你的职位]，主要研究方向包括[研究方向1]、[研究方向2]等。
+## 🎓 About Me
+I am a Researcher of IEEE，主要研究方向包括[研究方向1]、[研究方向2]等。
 
 **教育背景**
 - 学位 | 学校 | 年份
